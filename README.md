@@ -18,9 +18,7 @@ Embora eu esteja apenas começando, você encontrará alguns projetos que explor
 
 1. **Projeto de Análise de Vendas**: Neste projeto, eu analisei dados de vendas e criei gráficos interativos para visualizar o desempenho de vendas ao longo do tempo.
 
-2. **Dashboard de Marketing**: Explorei como criar um dashboard de marketing para rastrear métricas-chave de campanhas de marketing.
-
-3. **Análise de Dados de Estoque**: Este projeto aborda a análise de dados de estoque, ajudando a tomar decisões informadas sobre o gerenciamento de inventário.
+2. **Em breve...** 
 
 ## Como Explorar os Projetos
 
