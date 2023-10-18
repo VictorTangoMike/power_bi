@@ -16,7 +16,7 @@ Neste repositório, você encontrará uma coleção de projetos de Power BI, cri
 
 Embora eu esteja apenas começando, você encontrará alguns projetos que exploram diferentes conceitos e recursos do Power BI:
 
-1. **Projeto de Análise de Vendas**: Neste projeto, eu analisei dados de vendas e criei gráficos interativos para visualizar o desempenho de vendas ao longo do tempo.
+1. **[Projeto de Análise de Vendas](https://github.com/VictorTangoMike/power_bi/tree/main/Financial)**: Neste projeto, eu analisei dados de vendas e criei gráficos interativos para visualizar o desempenho de vendas por segmentos, produtos e países. 
 
 2. **Em breve...** 
 
@@ -26,7 +26,9 @@ Embora eu esteja apenas começando, você encontrará alguns projetos que explor
 
 2. **Abra os Arquivos .PBIX**: Cada projeto está em um arquivo Power BI (.pbix) que você pode abrir no Power BI Desktop para explorar os relatórios e as visualizações.
 
-3. **Contribuições e Feedback**: Sinta-se à vontade para abrir problemas (issues) ou enviar sugestões e feedback. Lembre-se de que estou aqui para aprender, e seu feedback é valioso!
+3. **Arquivos base**: Acho importante disponibilizar quais são as fontes dos dados, logo, sempre que possível estarei disponibilizando os dados utilizados naa análise. 
+
+4. **Contribuições e Feedback**: Sinta-se à vontade para abrir problemas (issues) ou enviar sugestões e feedback. Lembre-se de que estou aqui para aprender, e seu feedback é valioso!
 
 ## Próximos Passos
 
