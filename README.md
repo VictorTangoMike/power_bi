@@ -22,7 +22,7 @@ Embora eu esteja apenas começando, você encontrará alguns projetos que explor
 
 ## Como Explorar os Projetos
 
-1. **Clonar o Repositório**: Você pode clonar este repositório para sua máquina local usando o comando `git clone [URL do repositório]`.
+1. **Clonar o Repositório**: Você pode clonar este repositório para sua máquina local usando o comando `git clone https://github.com/VictorTangoMike/power_bi`.
 
 2. **Abra os Arquivos .PBIX**: Cada projeto está em um arquivo Power BI (.pbix) que você pode abrir no Power BI Desktop para explorar os relatórios e as visualizações.
 
