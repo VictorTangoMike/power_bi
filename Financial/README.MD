@@ -14,6 +14,8 @@ Nesta aba, você encontrará uma análise de desempenho de vendas com foco em pa
 
 ### 3. Profit, Sales, and Units Sold by Country and Segment
 
+![Screenshot da aba 03](https://raw.githubusercontent.com/VictorTangoMike/power_bi/main/Financial/Page_03.png)
+
 A terceira aba do projeto oferece uma visão abrangente das informações financeiras, incluindo lucros, vendas e unidades vendidas, segmentadas por país e segmento de mercado. Isso permite uma análise detalhada de várias métricas importantes.
 
 ## Tecnologias Utilizadas
@@ -31,5 +33,3 @@ A terceira aba do projeto oferece uma visão abrangente das informações financ
 Este projeto foi criado por mim, Victor Mendes. Sou um entusiasta do Power BI e estou empolgado em compartilhar análises financeiras fascinantes com esta comunidade. Se tiver alguma dúvida ou comentário, não hesite em entrar em contato.
 
 Aproveite a exploração deste projeto e aprofunde-se nos detalhes do desempenho financeiro!
-
-![Screenshot do Projeto](https://onedrive.live.com/embed?resid=FA1D3500DAB5C153%2151104&authkey=!AL0mXr5KYPkXjcA)
