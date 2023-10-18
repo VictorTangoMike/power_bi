@@ -37,3 +37,7 @@ A terceira aba do projeto oferece uma visão abrangente das informações financ
 Este projeto foi criado por mim, Victor Mendes. Sou um entusiasta do Power BI e estou empolgado em compartilhar análises financeiras fascinantes com esta comunidade. Se tiver alguma dúvida ou comentário, não hesite em entrar em contato.
 
 Aproveite a exploração deste projeto e aprofunde-se nos detalhes do desempenho financeiro!
+
+## Agradecimentos
+
+Agradeço a professora [Juliana Mascarenhas](https://github.com/julianazanelatto) pelo conhecimento passado através da [Formação de Power BI](https://web.dio.me/track/formacao-power-bi-analyst) da plataforma [DIO](https://web.dio.me/home)!
